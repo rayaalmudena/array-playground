@@ -5,5 +5,5 @@
 // usa el método 'fill' adecuadamente para llenar de '0' el array 'numeros'
 
 let numeros = [1, 2, 3, 4, 5];
-
+numeros=numeros.fill(0);
 console.log(numeros); 
